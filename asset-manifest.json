@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/headphones/static/css/main.66fd5848.css",
+    "main.js": "/headphones/static/js/main.f17f4a34.js",
+    "index.html": "/headphones/index.html",
+    "main.66fd5848.css.map": "/headphones/static/css/main.66fd5848.css.map",
+    "main.f17f4a34.js.map": "/headphones/static/js/main.f17f4a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66fd5848.css",
+    "static/js/main.f17f4a34.js"
+  ]
+}
